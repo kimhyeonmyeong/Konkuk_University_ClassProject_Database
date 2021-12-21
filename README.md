@@ -1,7 +1,6 @@
 ## Konkuk_University_ClassProject_Database
 
-
-대학교에서 진행한 MySql 기반의 데이터베이스 검색 프로젝트
+MySql 기반의 데이터베이스 검색 프로그램
 
 
 ## 프로젝트 개요
