@@ -1,7 +1,7 @@
 ## Konkuk_University_ClassProject_Database
 
 
-대학교에서 진행한 MySql 기반의 데이터베이스 프로그램입니다.
+대학교에서 진행한 MySql 기반의 데이터베이스 검색 프로젝트
 
 
 ## 프로젝트 개요
@@ -10,7 +10,7 @@
 
 이를 기반으로 MySql에 DataBase와 Table들을 구축합니다.
 
-구축된 DataBase를 여러 조건에 맞추어 Search하는 프로그램을 제작합니다.
+구축된 DataBase를 여러 조건에 맞추어 Searh를 수행합니다.
 
 
 
