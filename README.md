@@ -1,9 +1,9 @@
-## Konkuk_University_ClassProject_Database
+## ClassProject_Database_by_MySql
 
 MySql 기반의 데이터베이스 검색 프로그램
 
 
-### 프로젝트 개요
+### 프로젝트
 
 영화 Data, 사용자 Data, 사용자가 영화에 내리는 평점 Data들을 기반으로 E/R Modeling, Realtional Data Modeling 과정을 거칩니다.
 
@@ -17,7 +17,7 @@ MySql 기반의 데이터베이스 검색 프로그램
 2020-06-23 ~ 2020-06-30
 
 
-### 프로젝트 구성
+### Specification
 
 영화, 사용자, 영화-사용자 Data들의 E/R Model
 
@@ -28,6 +28,6 @@ MySql 기반의 데이터베이스 검색 프로그램
 사용자의 취향과 직업, 영화의 제목과 장르 평점평균 조건으로 DataBase Search 프로그램(python)
 
 
-### 주요 구성 화면
+### View
 
-![image](https://user-images.githubusercontent.com/44837403/123362923-750fe800-d5ac-11eb-9c60-473fbabbf5dc.png)
+![image](https://user-images.githubusercontent.com/44837403/181671797-865b01a5-ff48-4ccf-bf96-704fc9ba15ef.png)
